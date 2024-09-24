@@ -14,3 +14,5 @@ I'm currently interested in condensed matter physics theory, specifically in top
 - Emergent phenomena in condensed matter systems (still exploring).
 
 I'm doing undergraduate research in [Prof. Zhida Song](https://icqm.pku.edu.cn/yw/directory/faculty/932182.htm)'s group now.
+
+[Github repo for this homepage](https://github.com/Sophus-PHLin/Sophus-PHlin.github.io)
