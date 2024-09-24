@@ -1,6 +1,6 @@
 locale                   : "en-US"
-# title                    : "Sophus's Homepage"
-# title_separator          : "-"
+title                    : "Sophus's Homepage"
+title_separator          : "-"
 name                     : &name "Sophus"
 description              : &description "personal description"
 url                      : https://sophus-phlin.github.io
