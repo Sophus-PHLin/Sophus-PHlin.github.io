@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sophus's Homepage"
+title: "Welcome to Sophus's Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
