@@ -16,4 +16,4 @@ Here are the presentation slides (in Chinese):
 
 [Theory of cuprate superconductivity](https://Sophus-PHLin.github.io/files/18_铜基超导理论.pdf)
 
-There might still be mistakes. 
+There might still be mistakes. Feel free to point them out.
