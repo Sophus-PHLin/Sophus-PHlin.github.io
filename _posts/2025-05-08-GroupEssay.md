@@ -1,9 +1,9 @@
 ---
 title: 'Group theory II essay'
-date: 2024-09-24
-permalink: /posts/built/
+date: 2025-05-08
+permalink: /posts/groupessay/
 tags:
-  - settings
+  - courses
 ---
 
 In spring 2025, I took the class "Group theory II" (Lie groups and Lie algebras) by Prof. Yuxin Liu (刘玉鑫). Because of the retirement of a professor, the course schedule this year was adjust, and this class originally taught by Prof. Yinan Wang (王一男) was assigned to Prof. Yuxin Liu, who taught this class before 2020. To my opinion, Prof. Liu's class seems to be better, because it has a broader context, explains everything clearly without involving complex mathematical concepts, and introduces physical applications (especially in nuclear theory) in detail.
