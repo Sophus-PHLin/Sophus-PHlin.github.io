@@ -11,4 +11,10 @@ tags:
 
 Introduction: This is a discussion class on equilibrium statistical physics in Peking University. The teacher-in-charge is Prof. Huaqing Huang (黄华卿).
 
-My two presentation topics are "Kondo model and the renormalization group" and "From dynamics to kinetics". I will upload the presentation slides (in Chinese) later on:
+My presentation topics are "Kondo model and the renormalization group" and "Bethe ansatz". Here are the presentation slides (in Chinese):
+
+[Kondo model and the renormalization group](https://Sophus-PHLin.github.io/files/kondo.pdf)
+
+[Bethe ansatz](https://Sophus-PHLin.github.io/files/bethe.pdf)
+
+There might still be mistakes. Feel free to point them out.
