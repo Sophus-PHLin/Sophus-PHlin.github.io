@@ -10,6 +10,16 @@ redirect_from:
 I'm Sophus, a second-year undergraduate student at School of Physics, Peking University.
 
 I'm currently interested in condensed matter physics theory, especially topological and transport properties of mesoscopic systems.
+<<<<<<< HEAD
+
+I'm also interested in languages and **lingustics**. I can speak Chinese and English, and I'm now learning German, Russian and Japanese. I am interested in the classification of language families, the reconstruction of proto languages, phonetic changes, and writing systems.
+
+I like Japanese and Russian music. My favorite bands and singers include:
+- Japanese: `Takahashi Yuu`, `Amazarashi`, `Tuyu`, `Roselia`, `Sakanaction`, `Afterglow` and many others.
+- Russian: `Kino`, `DDT`, `Molchat Doma`.
+- Deutsch: `Rammstein`.
+=======
+>>>>>>> cde66b0f8921cc2e34946f62671c0d247ce126bb
 
 I'm also interested in languages and **lingustics**. I can speak Chinese and English, and I'm now learning German, Russian and Japanese. I am interested in the classification of language families, the reconstruction of proto languages, phonetic changes, and writing systems.
 
