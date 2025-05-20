@@ -56,16 +56,8 @@ The main content of this course includes:
 
 We were required to write an essay on any topic about Lie group and Lie algebras. I chose the topic "Branching rules and Gelfand-Tsetlin bases of the classical Lie algebras".
 
-<<<<<<< HEAD
 [Branching rules and Gelfand-Tsetlin bases of the classical Lie algebras](https://Sophus-PHLin.github.io/files/branching)
 
 ## Notes
 
 If possible, I will organize my notes into a short book, and upload it to this site. 
-=======
-[Branching rules and Gelfand-Tsetlin bases of the classical Lie algebras](https://Sophus-PHLin.github.io/files/branching.pdf)
-
-## Notes
-
-If possible, I will organize my notes into a short book, and upload it to this site. 
->>>>>>> cde66b0f8921cc2e34946f62671c0d247ce126bb
