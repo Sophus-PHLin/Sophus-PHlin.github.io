@@ -1,5 +1,5 @@
 ---
-title: 'Group theory II 25'
+title: 'Group theory II 2025'
 date: 2025-05-08
 permalink: /posts/groupII2025/
 tags:
