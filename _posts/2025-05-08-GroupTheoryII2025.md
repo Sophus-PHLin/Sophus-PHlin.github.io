@@ -15,6 +15,7 @@ The main reference book is Prof. Yuxin Liu's 《物理学家用李群李代数�
 - Hamermesh, Group theory and its application to physical problems.
 - Wybourne, Classical Groups for Physicists.
 - 万哲先 (Zhexian Wan), 李代数 (Lie algebra).
+- Iachello, Lie Algebras and Applications.
 - Iachello and Arima, The Interacting Boson Model.
 - Iachello and Levine, Algebraic theory of molecules.
 
@@ -56,7 +57,7 @@ The main content of this course includes:
 
 We were required to write an essay on any topic about Lie group and Lie algebras. I chose the topic "Branching rules and Gelfand-Tsetlin bases of the classical Lie algebras".
 
-[Branching rules and Gelfand-Tsetlin bases of the classical Lie algebras](https://Sophus-PHLin.github.io/files/branching)
+[Branching rules and Gelfand-Tsetlin bases of the classical Lie algebras](https://Sophus-PHLin.github.io/files/branching.pdf)
 
 ## Notes
 
