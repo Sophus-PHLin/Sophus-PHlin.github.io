@@ -17,7 +17,6 @@ The main reference book is Prof. Yuxin Liu's 《物理学家用李群李代数�
 - 万哲先 (Zhexian Wan), 李代数 (Lie algebra).
 - Iachello, Lie Algebras and Applications.
 - Iachello and Arima, The Interacting Boson Model.
-- Iachello and Levine, Algebraic theory of molecules.
 
 ## Course content
 
@@ -41,16 +40,15 @@ The main content of this course includes:
   - Racah theorem and isoscalar factors
 - Spacetime symmetry and applications
   - Lorentz group and its representations
-  - Applications of the Lorentz group
+  - Applications of the Lorentz group and the Poincare group
 - Applications of Lie algebras to hadron structures and strong interactions
   - Quark structure of light-flavor hadrons and many-quark states
   - Chiral symmetry and its breaking
   - Gauge symmetry
 - Applications of Lie algebras to many-particle systems
   - Dynamical symmetry of fermionic and bosonic systems
-  - Collective motion and coherent states
-  - Models of nucleus systems, interacting boson model, phase transitions
-  - Algebraic models of molecules
+  - Collective motion of many-particle systems, coherent states
+  - Interacting boson model of nuclear systems, spectrum generating algebra, shape phase transitions
   - Algebraic models of superconductivity
 
 ## Essay

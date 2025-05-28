@@ -7,11 +7,7 @@ tags:
   - courses
 ---
 
-# Seminar on Equilibrium Statistical Physics
-
-Introduction: This is a discussion class on equilibrium statistical physics in Peking University. The teacher-in-charge is Prof. Huaqing Huang (黄华卿).
-
-My presentation topics are "Kondo model and the renormalization group" and "Bethe ansatz". Here are the presentation slides (in Chinese):
+This is a discussion class on equilibrium statistical physics at Peking University. The teacher-in-charge is Prof. Huaqing Huang (黄华卿). My presentation topics are "Kondo model and the renormalization group" and "Bethe ansatz". Here are the presentation slides (in Chinese):
 
 [Kondo model and the renormalization group](https://Sophus-PHLin.github.io/files/kondo.pdf)
 
