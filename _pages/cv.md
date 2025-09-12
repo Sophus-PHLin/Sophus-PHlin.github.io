@@ -22,13 +22,13 @@ My current research interests lie in the field of theoretical condensed matter p
 I am also eager to learn, explore, and challenge myself across a broader range of topics, both within and beyond condensed matter physics.
 
 ## Research Experience
-* Transport Phenomena in Spin and Orbital Hall Effects (Max Planck Institute for the Physics of Complex Systems, Jun 2025 - Sept 2025)
-  * Kinetics of Phonon Scattering
-  * Contribution of Single Impurity Scattering to Spin and Orbital Hall Effects in Confined Geometries
-  * Spin and Orbital Hall Effects Under Periodic (Floquet) Driving
-* Unbiased Theoretical and Numerical Evidence for Fractional Chern Insulator Phases in Multilayer Rhombohedral Graphene (Peking University, Feb 2025 – Jun 2025)
-* Hartree-Fock Study of Correlation in Topological Flat Bands (Peking University, Jul 2024 – Jan 2025)
-* Quantum Geometry in Magnetic Systems (Peking University, Oct 2024 – Jan 2025 & Sept 2025 - )
+* Transport Phenomena in Spin and Orbital Hall Effects (Max Planck Institute for the Physics of Complex Systems, Jun 2025 - Sept 2025).
+  * Kinetics of Phonon Scattering;
+  * Contribution of Single Impurity Scattering to Spin and Orbital Hall Effects in Confined Geometries;
+  * Spin and Orbital Hall Effects Under Periodic (Floquet) Driving.
+* Unbiased Theoretical and Numerical Evidence for Fractional Chern Insulator Phases in Multilayer Rhombohedral Graphene (Peking University, Feb 2025 – Jun 2025).
+* Hartree-Fock Study of Correlation in Topological Flat Bands (Peking University, Jul 2024 – Jan 2025).
+* Quantum Geometry in Magnetic Systems (Peking University, Oct 2024 – Jan 2025 & Sept 2025 - ).
 
 ## Skills
 * Programming: Python (fluent with experience in scientific computing and numerical simulations), Mathematica, LaTeX.

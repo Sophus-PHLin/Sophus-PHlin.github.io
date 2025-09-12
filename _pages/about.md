@@ -14,6 +14,6 @@ I'm interested in condensed matter physics theory, especially topological and tr
 I'm also interested in languages and lingustics. I can speak Chinese and English, and I'm now learning German, Russian and Japanese. I am interested in the field of **historical linguistics**, including classification of language families, the reconstruction of proto languages, phonetic changes, and writing systems.
 
 I like music. My favorite bands and singers include:
-- Japanese: `Takahashi Yuu`, `Amazarashi`, `Sakanaction`, `Tuyu` (Japanese folk-rock and electronics).
-- Russian: `Kino`, `DDT`, `Akvarium`, `Molchat Doma`, `Grazhdanskaya Oborona` (Soviet rock and new-wave).
-- German: `Rammstein`, `Oomph!` (Neue Deutsche Härte).
+- Russian: `Kino`, `DDT`, `Akvarium`, `Molchat Doma`, `Grazhdanskaya Oborona`.
+- German: `Rammstein`.
+- Japanese: `Takahashi Yuu`, `Amazarashi`, `Sakanaction`.
