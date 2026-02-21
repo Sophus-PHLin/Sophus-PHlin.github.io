@@ -14,6 +14,4 @@ Below are some of my course papers during my study at Peking University up to no
 
 [Optics - Twisted Moiré Lasers](https://Sophus-PHLin.github.io/files/转角Moiré晶格激光器.pdf)
 
-> Frenzied angels with hungry eyes
-> 
-> Storming their heavens...
+> *Frenzied angels with hungry eyes / Storming their heavens...*
