@@ -1,9 +1,7 @@
 ---
 title: 'Course Papers'
-date: 2025-05-08
-permalink: /posts/coursepapers-1/
-tags:
-  - courses
+date: 2026-02-21
+permalink: /courses/coursepapers-1/
 ---
 
 Below are some of my course papers during my study at Peking University up to now.

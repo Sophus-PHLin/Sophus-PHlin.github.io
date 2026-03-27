@@ -11,8 +11,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Courses"
+    url: /courses/    
         
   - title: "Blog Posts"
     url: /year-archive/
