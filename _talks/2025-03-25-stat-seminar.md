@@ -2,7 +2,7 @@
 title: 'Seminar on Equilibrium Statistical Physics, Peking University, 2025 spring'
 collection: talks
 date: 2025-03-25
-permalink: /tals/stat-seminar-25spring-PKU/
+permalink: /talks/stat-seminar-25spring-PKU/
 tags:
   - courses
 ---
