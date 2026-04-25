@@ -1,5 +1,5 @@
 ---
-title: '30天推歌挑战（第一条）'
+title: '歌曲推荐（第一版）'
 date: 2026-04-01
 permalink: /posts/musicrecomd1/
 tags:

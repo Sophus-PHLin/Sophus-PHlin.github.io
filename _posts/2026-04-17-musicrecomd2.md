@@ -1,5 +1,5 @@
 ---
-title: '专辑推荐（持续更新）'
+title: '歌曲推荐（第二版）'
 date: 2026-04-17
 permalink: /posts/musicrecomd2/
 tags:
