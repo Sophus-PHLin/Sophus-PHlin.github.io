@@ -1,5 +1,5 @@
 ---
-title: '歌曲推荐（第二版）'
+title: '音乐推荐（第二辑）'
 date: 2026-04-17
 permalink: /posts/musicrecomd2/
 tags:

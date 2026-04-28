@@ -1,12 +1,12 @@
 ---
-title: '《风车》第一期'
+title: '《刺猬学》 创刊号'
 date: 2026-04-01
-permalink: /posts/windmill01/
+permalink: /posts/erinaceologia00/
 tags:
-  - windmill
+  - erinaceologia
 ---
 
-## 《风车》 创刊号
+## 《刺猬学》 创刊号
 
 <!-- 
 写一篇气势恢宏的激进宣言式文章，作为我的博客栏目的创刊号。大致的内容如下：

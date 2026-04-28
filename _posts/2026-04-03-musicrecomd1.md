@@ -1,5 +1,5 @@
 ---
-title: '歌曲推荐（第一版）'
+title: '音乐推荐（第一辑）'
 date: 2026-04-01
 permalink: /posts/musicrecomd1/
 tags:
