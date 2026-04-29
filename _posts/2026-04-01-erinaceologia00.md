@@ -6,7 +6,14 @@ tags:
   - erinaceologia
 ---
 
-## 《刺猬学》 创刊号
+<center>
+
+# 刺猬学
+## 渡过虚无的边界
+
+# ERINACEOLOGIA
+## Traversing the Threshold into Nothingness
+</center>
 
 <!-- 
 写一篇气势恢宏的激进宣言式文章，作为我的博客栏目的创刊号。大致的内容如下：
