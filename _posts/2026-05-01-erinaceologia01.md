@@ -3,7 +3,7 @@ title: '《刺猬学》 第一期'
 date: 2026-05-01
 permalink: /posts/erinaceologia01/
 tags:
-  - erinaceologia
+  - Erinaceologia
 ---
 
 <center>

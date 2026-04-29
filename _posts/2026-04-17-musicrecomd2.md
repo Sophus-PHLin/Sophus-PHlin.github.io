@@ -3,7 +3,7 @@ title: '音乐推荐（第二辑）'
 date: 2026-04-17
 permalink: /posts/musicrecomd2/
 tags:
-  - music
+  - Music
 ---
 
 <center>

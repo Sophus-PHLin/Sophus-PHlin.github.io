@@ -3,7 +3,7 @@ title: '音乐推荐（第三辑）'
 date: 2026-04-27
 permalink: /posts/musicrecomd3/
 tags:
-  - music
+  - Music
 ---
 
 这次推荐我喜欢的一些摇滚大类的音乐家/专辑！黑体的是我觉得最好的。

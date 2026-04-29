@@ -3,7 +3,7 @@ title: '音乐推荐（第一辑）'
 date: 2026-04-01
 permalink: /posts/musicrecomd1/
 tags:
-  - music
+  - Music
 ---
 
 <center>

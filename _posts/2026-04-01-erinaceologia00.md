@@ -3,7 +3,7 @@ title: '《刺猬学》 创刊号'
 date: 2026-04-01
 permalink: /posts/erinaceologia00/
 tags:
-  - erinaceologia
+  - Erinaceologia
 ---
 
 <center>
