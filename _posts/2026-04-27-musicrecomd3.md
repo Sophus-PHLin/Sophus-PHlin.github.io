@@ -36,7 +36,7 @@ RU：
 - Чернозём（黑土）。求生指南的部分成员组成的分支乐队。
   - 1995：Подарок для самого слабого（给最弱者的礼物）
 - Yakui the Maid。虽然名字像二次元音乐，但演奏的却是最纯正的后金属、后摇滚和钉鞋。
-  - 2019：Goodnight world
+  - 2019：**Goodnight world**
   - 2020：Polyneuropary，和2021：Polyneuroparty Pt.2
   - 2022：（With Ozoi the Maid）：Wonderland
 - Sergey Kuryokhin。苏联先锋音乐的标志性人物。（入门中，可能不全）
@@ -61,7 +61,7 @@ EN：
   - 1968：Strange Days
 - The Cure
   - 1982：**Pornography**
-  - 1989：Disintegration
+  - 1989：**Disintegration**
 - Kraftwerk
   - 1981：Computer World
 - Fad Gadget
@@ -72,19 +72,16 @@ EN：
 - Einstürzende Neubauten
   - 1983：Zeichnungen des Patienten O.T.
   - 1985：**Halber Mensch**
-- Dead can Dance
-  - 1987：**Within the Realm of a Dying Sun**
-  - 1988：The Serpent's Egg
 - Death in June
   - 1985：Nada!
-  - 1992：**But, What Ends When the Symbols Shatter?**
-  - 1995：Rose Clouds of Holocaust
-- Mayhem（持续更新中）
-  - 1994：**De Mysteriis Dom Sathanas**
+  - 1992：But, What Ends When the Symbols Shatter?
+  - 1995：**Rose Clouds of Holocaust**
 - Burzum（持续更新中）
   - 1993：Det som engang var
   - 1994：Hvis lyset tar oss
   - 1996：**Filosofem**
+- Mayhem（持续更新中）
+  - 1994：**De Mysteriis Dom Sathanas**
 - Darkthrone（持续更新中）
   - 1992：**A Blaze in the Northern Sky**
   - 1993：Under a Funeral Moon

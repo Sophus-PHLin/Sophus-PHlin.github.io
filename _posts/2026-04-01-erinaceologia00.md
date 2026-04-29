@@ -9,7 +9,7 @@ tags:
 <center>
 
 # 刺猬学
-## 渡过虚无的边界
+## 渡越虚无之边界
 
 # ERINACEOLOGIA
 ## Traversing the Threshold into Nothingness
