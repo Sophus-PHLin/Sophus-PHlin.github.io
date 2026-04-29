@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.S. in Physics, Peking University, Sep 2023 - Jun 2027
-* Summer Research Intern, Max Planck Institute for the Physics of Complex Systems, Jun 2025 - Sept 2025
+* B.S. in Physics, Peking University, Sep 2023 - Jun 2027.
+* Summer Research Intern, Max Planck Institute for the Physics of Complex Systems, Jun 2025 - Sept 2025.
 
 <!-- ## Research Interests
 My current research interests lie in the field of theoretical condensed matter physics, particularly
@@ -21,7 +21,7 @@ My current research interests lie in the field of theoretical condensed matter p
 
 I am also eager to learn, explore, and challenge myself across a broader range of topics, both within and beyond condensed matter physics. -->
 
-## Research Experience
+<!-- ## Research Experience
 * Transport Phenomena in Spin and Orbital Hall Effects (Max Planck Institute for the Physics of Complex Systems, Jun 2025 - Sept 2025).
   * Advisor: Prof. Roderich Moessner and Dr. Egor Kiselev.
   * Research subtopics:
@@ -33,7 +33,7 @@ I am also eager to learn, explore, and challenge myself across a broader range o
 * Quantum Geometry in Magnetic Systems (Peking University, Oct 2024 – Jan 2025 & Sept 2025 - ).
   * Advisor: Prof. Jiabin Yu.
 * Hartree-Fock Study of Correlation in Topological Flat Bands (Peking University, Jul 2024 – Jan 2025).
-  * Advisor: Prof. Zhida Song.
+  * Advisor: Prof. Zhida Song. -->
 
 <!-- ## Skills
 * Programming: Python (fluent with experience in scientific computing and numerical simulations), Mathematica, LaTeX.

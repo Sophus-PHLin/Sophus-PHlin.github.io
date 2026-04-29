@@ -1,7 +1,7 @@
 ---
 title: 'Course Papers'
 date: 2026-02-21
-permalink: /academics/coursepapers-1/
+permalink: /Academics/coursepapers-1/
 ---
 
 Below are some of my course papers during my study at Peking University up to now.

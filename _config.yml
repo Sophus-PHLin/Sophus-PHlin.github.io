@@ -202,7 +202,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  academics:
+  Academics:
     output: true
     permalink: /:collection/:path
   publications:
@@ -236,10 +236,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _academics
+  # _Academics
   - scope:
       path: ""
-      type: academics
+      type: Academics
     values:
       layout: single
       author_profile: true

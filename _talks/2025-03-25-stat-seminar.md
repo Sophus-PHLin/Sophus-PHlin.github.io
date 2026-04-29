@@ -4,7 +4,7 @@ collection: talks
 date: 2025-03-25
 permalink: /talks/stat-seminar-25spring-PKU/
 tags:
-  - academics
+  - Academics
 ---
 
 This is a discussion class on equilibrium statistical physics at Peking University. The teacher-in-charge is Prof. Huaqing Huang (黄华卿). My presentation topics are "Kondo model and the renormalization group" and "Bethe ansatz". Here are the presentation slides (in Chinese):
