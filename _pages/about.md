@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I'm Sophus, a third-year undergraduate student with a major in physics. I am also interested with linguistics, music, art and philosophy.
 
-Many are curious about the meaning of the name Sophus. It is derived from the ancient Greek σοφός (sophós), meaning "wise", and is the masculine form of Sophia in Latin. In addition, it is also the name of the Norwegian mathematician who proposed the Lie group.
+> Many are curious about the meaning of the name Sophus. It is derived from the ancient Greek word σοφός (sophós), meaning "wise", and is the masculine form of Sophia in Latin. It is also the name of the Norwegian mathematician who proposed the Lie group.
 
 <!--  at School of Physics, Peking University.
 

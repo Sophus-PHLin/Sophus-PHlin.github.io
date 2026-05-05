@@ -30,7 +30,7 @@ RU：
   - 2004：Долгая счастливая жизнь（漫长而幸福的人生），2005：**Реанимиация**（复苏），以及2007：Зачем снятся сны（我们为何做梦）
 - Егор и Опизденевшие（叶戈尔与“懵逼”）。民防乐队的中心叶戈尔·列托夫在1990-1993年间的迷幻摇滚项目，俄语音乐无可置疑的精雕细琢的经典。
   - 1990：Прыг-скок（蹦蹦跳）
-  - 1993：**Сто лет одиночества**（百年孤独），以及Психоделия Tomorrow（迷幻明日）
+  - 1993：**Сто лет одиночества**（百年孤独）和Психоделия Tomorrow（迷幻明日）
 - Янка（扬卡·迪亚吉列娃，1966-1991）。是80年代叶戈尔·列托夫的女友，但她本身的创作才华也难以忽视，是西伯利亚朋克运动中除民防乐队之外最著名的形象。如果说民防乐队是朋克，那么扬卡就是最纯正定义上的后朋克。
   - 1988：**Деклассированным элементам**（致堕落分子）
   - 1989：**Ангедония**（快感缺失），**Домой!**（回家！）
@@ -44,7 +44,8 @@ RU：
   - 1995：Подарок для самого слабого（给最弱者的礼物）
 - Yakui the Maid。虽然名字像二次元音乐，但演奏的却是最纯正的后金属、后摇滚和钉鞋。
   - 2019：**Goodnight world**
-  - 2020：Polyneuropary，和2021：Polyneuroparty Pt.2
+  - 2020：Polyneuropary
+  - 2021：Polyneuroparty Pt.2
   - 2022：（With Ozoi the Maid）：Wonderland
 - Sergey Kuryokhin。苏联先锋音乐的标志性人物。（入门更新中）
   - 1992：The Rich's Opera
@@ -57,7 +58,7 @@ EN：
   - 1986：EVOL
   - 1987：Sister
   - 1988：**Daydream Nation**
-  - 1992：Dirty
+  - 1990：Goo
   - 1995：Washing Machine
 - Pink Floyd（入门更新中）
   - 1970：Atom Heart Mother
@@ -88,7 +89,7 @@ EN：
   - 1981：Youth of America
   - 1983：Over the Edge
 
-\* 以下是更黑暗的一些歌曲……
+\* 以下是更黑暗的一些歌曲，包括黑暗民谣、黑金属等：
 - Death in June
   - 1985：Nada!
   - 1992：But, What Ends When the Symbols Shatter?
@@ -113,13 +114,11 @@ EN：
   - 2001：Voimasta ja Kunniasta
   - 2003：Kivenkantaja
   - 2005：Verisäkeet
-  - 2007：Viides Luku - Havitetty
+  - 2007：**Viides Luku - Havitetty**
 - Agalloch
   - 1999：Pale Folklore
   - 2001：**The Mantle**
   - 2004：Ashes Against the Grain
-- Alcest
-  - 2005：Souvenirs d'un autre monde
 - Harakiri for the Sky
   - 2012：**Harakiri for the Sky**
   - 2015：Aokigahara

@@ -7,10 +7,8 @@ tags:
 ---
 
 <center>
-<h1>刺猬学</h1>
-<h1>ERINACEOLOGIA</h1>
+<h1>刺猬学·ERINACEOLOGIA</h1>
 <h2>渡越虚无之边界</h2>
-<h2>Traversing the Threshold into Nothingness</h2>
 </center>
 
 <!-- 
