@@ -7,17 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Sophus, a third-year undergraduate student with a major in physics. I am also interested with linguistics, music, art and philosophy.
+Hello! I'm Sophus, a third-year undergraduate student majoring in physics. I'm also interested in linguistics, music, art, and philosophy.
 
-> Many are curious about the meaning of the name Sophus. It is derived from the ancient Greek word σοφός (sophós), meaning "wise", and is the masculine form of Sophia in Latin. It is also the name of the Norwegian mathematician who proposed the Lie group.
+> You might be curious about the origin of my name. "Sophus" comes from the ancient Greek word σοφός (sophós), which means "wise." It's the masculine form of Sophia in Latin, and it's also the name of a renowned Norwegian mathematician known for his work on Lie groups.
 
-<!--  at School of Physics, Peking University.
-
-I'm interested in condensed matter physics theory. I'm doing undergraduate research in [Prof. Zhida Song(宋志达)](https://scholar.google.com/citations?user=85T_dPEAAAAJ&hl=en)'s group. -->
-
-<center>
-<a href='https://sophuslin.atabook.org'>Website Guestbook</a>
-</center>
+If you'd like to reach out with any questions, suggestions, or just to say hello, feel free to contact me through my [website guestbook](https://sophuslin.atabook.org) or [email](mailto:sophusphlin@gmail.com).
 
 <center>
 <a href='https://www.free-counters.org/'>Visitor Counter:</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=4c13854db3d6ec9576f1a0bf579019eb4054d739'></script>

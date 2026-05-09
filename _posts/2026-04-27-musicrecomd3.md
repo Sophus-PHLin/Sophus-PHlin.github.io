@@ -38,6 +38,7 @@ RU：
 - Промышленная Архитектура（工业建筑），由民防的前吉他手德米特里·谢利瓦诺夫（Дмитрий Селиванов, 1964-1989）组建，只有一张专辑。1989年，谢利瓦诺夫自缢身亡，项目也从此结束。
   - 1988：**Любовь и технология**（爱与科技）
 - Инструкция по выживанию（求生指南）。西伯利亚朋克运动在秋明的杰出代表。
+  - Гражданская Оборона 1990：Инструкция по выживанию。（鉴于很多人听不下去求生指南主唱罗曼·涅乌莫耶夫的糟糕嗓音，建议从民防翻唱的这张入门。它收录了求生指南早期的代表作，以及当时尚未正式录制的一些后期作品。）
   - 1992：**Смертное**（凡人）和**Армия белого света**（白光军团）。数学家、博主和音乐出版商米沙·韦尔比茨基对这两张专辑写了非常详细深刻的[乐评](http://imperium.lenin.ru/LENIN/22lmdg/22lmdg.html#ipv)。
   - 1994：Религия сердца（心灵之宗教）
 - Чернозём（黑土）。求生指南的部分成员组成的分支乐队。
@@ -88,6 +89,9 @@ EN：
   - 1980：Is This Real?
   - 1981：Youth of America
   - 1983：Over the Edge
+- Big Black
+  - 1986：Atomizer
+  - 1987：Songs About Fucking
 
 \* 以下是更黑暗的一些歌曲，包括黑暗民谣、黑金属等：
 - Death in June
@@ -107,10 +111,13 @@ EN：
   - 1993：Under a Funeral Moon
   - 1994：Transilvanian Hunger
   - 1995：**Panzerfaust**
+  - 2019：Old Star（感谢金属吧推荐）
+- Batushka
+  - 2015：Litourgiya
 - Gris
   - 2007：**Il était une forêt...**
   - 2013：À l'âme enflammée, l'äme constellée…
-- Moonsorrow（入门更新中）
+- Moonsorrow
   - 2001：Voimasta ja Kunniasta
   - 2003：Kivenkantaja
   - 2005：Verisäkeet
@@ -119,9 +126,11 @@ EN：
   - 1999：Pale Folklore
   - 2001：**The Mantle**
   - 2004：Ashes Against the Grain
+- 明日の叙景
+  - 2022：アイランド
 - Harakiri for the Sky
   - 2012：**Harakiri for the Sky**
   - 2015：Aokigahara
   - 2016：III: Trauma
-- 明日の叙景
-  - 2022：アイランド
+- Shining
+  - V • Halmstad (Niklas angående Niklas)
