@@ -1,4 +1,3 @@
----
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -9,6 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- ---
 ## Education
 * B.S. in Physics, Peking University, Sep 2023 - Jun 2027.
 * Summer Research Intern, Max Planck Institute for the Physics of Complex Systems, Jun 2025 - Sept 2025.
@@ -63,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams --> -->

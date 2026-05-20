@@ -36,8 +36,8 @@ tags:
 黑土乐队是“求生指南”乐队吉他手叶夫根尼·科科林的个人项目。1995年，求生指南在结束了前一年声势浩大的[民族共产主义摇滚巡演“俄罗斯突破”](https://grob-hroniki.org/article/2000/art_2000-12-20b.html)之后，暂时停止了演出。科科林和他的妻子奥克萨娜用他们巡演赚来的钱在秋明租了一间小木屋，购买了半业余的设备。而西伯利亚朋克的音乐家就聚集在这里，包括吉他手伊戈尔·热夫顿和伊戈尔·古利亚耶夫、鼓手亚历山大·安德留什金和叶夫根尼·库兹涅佐夫、贝斯手阿尔卡季·库兹涅佐夫（他们都在民防和求生指南中演奏），“黑色卢基奇”瓦季姆·库兹明和“经理”奥列格·苏达科夫，以及秋明本地的音乐家迪蒙·科洛科洛夫。他们在这个音乐公社里写歌、录制专辑，“有人在炸土豆，有人在挖菜园，有人还在睡觉，有人在拿伏特加，有人在焊接监听音箱”。
 
 <center>
-<img src="https://sophus-phlin.github.io/images/eric-1-4-1.png" width=600>
-<img src="https://sophus-phlin.github.io/images/eric-1-4-2.png" width=600>
+<img src="https://sophus-phlin.github.io/images/eric-1-4-1.png" width=500>
+<img src="https://sophus-phlin.github.io/images/eric-1-4-2.png" width=500>
 </center>
 
 在这种自由而天马行空的环境下，诞生了三张经典的专辑：黑色卢基奇的[《Ледяные Каблуки》（冰冷鞋跟）](http://imperium.lenin.ru/UR-REALIST/Oct2001/lukich.html)，“经理和祖国”的[《Быть Живым》（作为生者）](http://imperium.lenin.ru/UR-REALIST/Nov2000/manager.html)，和“黑土”的“给最弱者的礼物”。

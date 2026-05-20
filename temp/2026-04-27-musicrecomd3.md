@@ -95,10 +95,12 @@ EN：
 
 \* 以下是更黑暗的一些歌曲，包括黑暗民谣、黑金属等：
 - Death in June
-  - 1985：Nada!
   - 1992：But, What Ends When the Symbols Shatter?
   - 1995：**Rose Clouds of Holocaust**
+- Dissection
+  - 1995：Storm of the Light's Bane
 - Burzum
+  - 1992：Burzum
   - 1993：**Det som engang var**
   - 1994：Hvis lyset tar oss
   - 1996：**Filosofem**
@@ -129,8 +131,8 @@ EN：
 - 明日の叙景
   - 2022：アイランド
 - Harakiri for the Sky
-  - 2012：**Harakiri for the Sky**
+  - 2012：Harakiri for the Sky
   - 2015：Aokigahara
-  - 2016：III: Trauma
+  - 2016：**III: Trauma**
 - Shining
   - V • Halmstad (Niklas angående Niklas)
