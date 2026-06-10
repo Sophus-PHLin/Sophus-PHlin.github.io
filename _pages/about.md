@@ -13,12 +13,10 @@ redirect_from:
 
 If you'd like to reach out with any questions, suggestions, or just to say hello, feel free to contact me through my  or [email](mailto:sophusphlin@gmail.com). -->
 
-<center><h1>LIFE ETERNAL.</h1>
+<center><h2>LIFE ETERNAL.</h2>
 
-[Website Guestbook](https://sophuslin.atabook.org)
+<a href='https://sophuslin.atabook.org'>Website Guestbook</a>
 
 <a href='https://www.free-counters.org/'>Visitor Counter:</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=4c13854db3d6ec9576f1a0bf579019eb4054d739'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1505682/t/1"></script>
-
-2026.6.
 </center> 
